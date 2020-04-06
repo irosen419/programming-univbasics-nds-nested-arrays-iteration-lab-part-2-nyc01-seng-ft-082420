@@ -22,4 +22,6 @@ def find_min_in_nested_arrays(src)
     counter += 1
   end
 
+  new_src
+  
 end
